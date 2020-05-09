@@ -5,7 +5,7 @@
 //
 // let total = 0;
 // // let dep = new Set();
-// // let depsMap = new Map();
+// // let depsMap = new Map(); test
 const targetMap = new WeakMap();
 let activeEffect = null;
 
